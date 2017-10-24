@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">U盘管理</string>
+    <string name="action_settings">关于</string>
+    <string name="View_text">Dell Streak 10 Pro</string>
+    <string name="View2_text">加载完成！</string>
+    <string name="View3_text">U盘管理 1.0\n\n版权所有 Mosajon 2016-2017\n\nhttp://weibo.com/mosajon</string>
+    <string name="textMount">挂载U盘</string>
+    <string name="textUmount">卸载U盘</string>
+</resources>
