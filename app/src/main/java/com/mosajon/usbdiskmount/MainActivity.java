@@ -102,7 +102,6 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onDestroy() {
-        // 释放资源，原finalize()方法名修改为close()
         super.onDestroy();
     }
 
